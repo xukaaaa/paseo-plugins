@@ -8,9 +8,7 @@
     "check": "npm run typecheck && npm test"
   },
   "devDependencies": {
-    "@getpaseo/client": "0.10.3",
     "@getpaseo/plugin": "0.10.3",
-    "@getpaseo/protocol": "0.10.3",
     "@types/node": "26.6.5",
     "@types/react": "~19.2.0",
     "react": "19.1.0",
@@ -20,6 +18,8 @@
     "zod": "^4.4.3"
   },
   "dependencies": {
+    "@getpaseo/client": "0.10.3",
+    "@getpaseo/protocol": "0.10.3",
     "gpt-tokenizer": "4.0.3"
   },
   "type": "module",

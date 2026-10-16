@@ -7,7 +7,7 @@
 
 ## Cài đặt
 
-Cần Paseo ≥0.10.3; `native-image` hỗ trợ Paseo <0.12.0. Máy chạy daemon cần Git, Node.js và npm.
+Cần Paseo ≥0.10.3. Máy chạy daemon cần Git, Node.js và npm.
 
 Trong **Settings → Plugins**, bật **Enable plugins**, dán từng source rồi bấm **Install plugin**:
 

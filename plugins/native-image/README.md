@@ -4,7 +4,7 @@ Hiển thị ảnh do Pi extension `native-image` lưu, với preview và phóng
 
 ## Cài đặt
 
-Cần Paseo ≥0.10.3 và <0.12.0; daemon cần Git, Node.js và npm.
+Cần Paseo ≥0.10.3; daemon cần Git, Node.js và npm.
 
 Dán source vào **Settings → Plugins**, bật **Enable plugins** và bấm **Install plugin**:
 

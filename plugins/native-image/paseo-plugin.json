@@ -1,6 +1,6 @@
 {
   "id": "native-image",
   "description": "Hiển thị ảnh từ native image_generation của Pi ngay trong chat.",
-  "requirements": { "paseo": ">=0.10.3 <0.12.0" },
+  "requirements": { "paseo": ">=0.10.3" },
   "build": [["npm", "ci", "--omit=dev", "--ignore-scripts", "--no-audit", "--no-fund"]]
 }
