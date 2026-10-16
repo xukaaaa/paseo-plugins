@@ -1,0 +1,6 @@
+{
+  "id": "paseo-tps",
+  "description": "Hiện TPS ước lượng khi Pi sinh văn bản và lưu kết quả dưới câu trả lời đã hoàn tất.",
+  "requirements": { "paseo": ">=0.10.3" },
+  "build": [["npm", "ci", "--omit=dev", "--ignore-scripts", "--no-audit", "--no-fund"]]
+}
